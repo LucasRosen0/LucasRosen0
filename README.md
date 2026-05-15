@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 💻 Estudando e desenvolvendo projetos web
 - 🎨 Interesse em interfaces modernas, dashboards e experiências futuristas
