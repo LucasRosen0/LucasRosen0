@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/LucasRosen0/nexora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasRosen0&repo=nexora&theme=github_dark&hide_border=true" />
+    <img src="https://img.shields.io/badge/Ver%20Projeto-Nexora-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -55,10 +55,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRosen0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRosen0&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasRosen0&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasRosen0&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasRosen0&theme=github_dark" />
+</p>
 ---
 
 ## 🐍 Contribuições
