@@ -1,5 +1,67 @@
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-# Olá, eu sou o Lucas 👋
+<p align="center">
+  Desenvolvedor em formação, criando interfaces modernas, sistemas web e projetos com foco em experiência do usuário.
+</p>
+
+<p align="center">
+  <a href="mailto:lroseno51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-roseno-567526159">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Roseno-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Estudando e desenvolvendo projetos web
+- 🎨 Interesse em interfaces modernas, dashboards e experiências futuristas
+- 📍 Guarulhos - SP
+- 🧠 Atualmente evoluindo em JavaScript, front-end e aplicações SaaS
+- 🔥 Construindo projetos próprios para portfólio
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Projeto em destaque
+
+### Nexora
+
+> Plataforma SaaS moderna com foco em UI premium, dashboards e experiência futurista.
+
+- Interface moderna
+- Foco em experiência visual
+- Projeto para portfólio
+- Desenvolvido com JavaScript
+
+<p align="center">
+  <a href="https://github.com/LucasRosen0/nexora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasRosen0&repo=nexora&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRosen0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRosen0&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasRosen0/LucasRosen0/output/github-contribution-grid-snake-dark.svg">
