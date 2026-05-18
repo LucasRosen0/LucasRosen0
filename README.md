@@ -19,9 +19,8 @@
 
 - 💻 Estudando e desenvolvendo projetos web
 - 🎨 Interesse em interfaces modernas, dashboards e experiências SaaS
-- 📍 Guarulhos - SP
 - 🧠 Evoluindo em JavaScript, front-end e arquitetura de aplicações
-- 🔥 Construindo projetos próprios para portfólio
+
 
 ---
 
