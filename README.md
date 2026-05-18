@@ -1,3 +1,12 @@
+<!-- HEADER BONITO (mantém o impacto) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7c3aed&height=180&section=header&text=Lucas%20Roseno&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- EFEITO DE ESCRITA (VERSÃO ESTÁVEL) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Criando+interfaces+modernas;Foco+em+UX+e+performance;Projetos+SaaS+e+Dashboards" />
+</p>
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
@@ -72,4 +81,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasRosen0/LucasRosen0/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LucasRosen0/LucasRosen0/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f0f0f&height=120&section=footer"/>
 </p>
