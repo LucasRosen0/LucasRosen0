@@ -1,6 +1,6 @@
 <!-- HEADER BONITO (mantém o impacto) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7c3aed&height=180&section=header&text=Lucas%20Roseno&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7c3aed&height=210&section=header&text=Lucas%20Roseno&fontSize=60&fontColor=ffffff" />
 </p>
 
 <!-- EFEITO DE ESCRITA (VERSÃO ESTÁVEL) -->
