@@ -10,7 +10,7 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação, criando interfaces modernas, sistemas web e experiências focadas em UX e performance.
+  Desenvolvedor em formação, criando interfaces modernas, sistemas web e experiências focadas em UX e performance. 
 </p>
 
 <p align="center">
