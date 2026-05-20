@@ -1,22 +1,24 @@
-<!-- HEADER BONITO (mantém o impacto) -->
+<!-- HEADER BONITO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7c3aed&height=210&section=header&text=Lucas%20Roseno&fontSize=60&fontColor=ffffff" />
 </p>
 
-<!-- EFEITO DE ESCRITA (VERSÃO ESTÁVEL) -->
+<!-- EFEITO DE ESCRITA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Criando+interfaces+modernas;Foco+em+UX+e+performance;Projetos+SaaS+e+Dashboards" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web;Criando+interfaces+modernas;Foco+em+UX+e+performance;Projetos+SaaS+e+Dashboards" />
 </p>
+
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação, criando interfaces modernas, sistemas web e experiências focadas em UX e performance. 
+  Desenvolvedor em formação, criando interfaces modernas, sistemas web e experiências focadas em UX e performance.
 </p>
 
 <p align="center">
   <a href="mailto:lroseno51@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/lucas-roseno-567526159">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Roseno-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,16 +26,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 - 💻 Estudando e desenvolvendo projetos web
 - 🎨 Interesse em interfaces modernas, dashboards e experiências SaaS
 - 🧠 Evoluindo em JavaScript, front-end e arquitetura de aplicações
 
-
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,vscode" />
@@ -41,9 +42,9 @@
 
 ---
 
-## 📌 Projeto em destaque
+# 📌 Projetos em destaque
 
-### Nexora
+## Nexora
 
 > Plataforma SaaS moderna com foco em dashboards, UX e experiência futurista.
 
@@ -58,9 +59,27 @@
   </a>
 </p>
 
+<br>
+
+## Synapse 🚧
+
+> Novo projeto em desenvolvimento focado em produtividade, estudos e organização pessoal.
+
+- Dashboard inteligente
+- Sistema de notas
+- Organização de tarefas
+- Pomodoro integrado
+- Interface moderna e dinâmica
+
+<p align="center">
+  <a href="https://github.com/LucasRosen0/Synapse">
+    <img src="https://img.shields.io/badge/Em%20Desenvolvimento-Synapse-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasRosen0&theme=github_dark" />
@@ -73,7 +92,7 @@
 
 ---
 
-## 🐍 Contribuições
+# 🐍 Contribuições
 
 <p align="center">
   <picture>
@@ -82,6 +101,7 @@
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LucasRosen0/LucasRosen0/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f0f0f&height=120&section=footer"/>
 </p>
